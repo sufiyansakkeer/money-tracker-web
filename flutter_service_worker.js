@@ -3,7 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
+<<<<<<< HEAD
   ".git/COMMIT_EDITMSG": "3532d11855ca175f717185077d3ca4ca",
+=======
+  ".git/COMMIT_EDITMSG": "f648b3a45353defbbc4f9037aa732f70",
+>>>>>>> 9a77da390053b0d84073e82e5a49e029e9700c97
 ".git/config": "4edbc9fc33c4e88e79be9756da9a8df7",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/FETCH_HEAD": "df00ebf66ebf348961d4afd8cd64081d",
@@ -21,11 +25,19 @@ const RESOURCES = {
 ".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+<<<<<<< HEAD
 ".git/index": "faccf033bafe5f918775cd89b607425e",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/HEAD": "5e92f14812a2c4962dd123fb97cae798",
 ".git/logs/refs/heads/main": "7b4e2ca88680d87d0f08caa374668b9f",
 ".git/logs/refs/remotes/origin/main": "4ffbe75ebce4bb5a930a2d03208ca8ea",
+=======
+".git/index": "6205a37023bcba843b0adcf5bdf7a0e9",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/logs/HEAD": "e4d92838c2694c2ad90d24ee0356acaf",
+".git/logs/refs/heads/main": "1e0f7c1b734ba59fd229b70460879ccb",
+".git/logs/refs/remotes/origin/main": "51cfc11133c286df5ec38c1ccab4e285",
+>>>>>>> 9a77da390053b0d84073e82e5a49e029e9700c97
 ".git/objects/00/514028b342565f20772e796f31e8b840f87fc1": "0d26da80ba7e3a0720007badc7826102",
 ".git/objects/01/3d4a6a53334fae827a32824eaf51a889396514": "1035270d429ce7cb68c5f0febf0fc0f9",
 ".git/objects/03/fffe095edb961107f30866b7518ddd785e960a": "649cd4a65635e8ef659a6bb821a30839",
@@ -128,7 +140,10 @@ const RESOURCES = {
 ".git/objects/a1/3837a12450aceaa5c8e807c32e781831d67a8f": "bfe4910ea01eb3d69e9520c3b42a0adf",
 ".git/objects/a7/ca833f119df9950f085bc82bfe629ffe5fa7db": "82f43d6c221bf3b8959f83a710caf719",
 ".git/objects/ab/aaffa7b00e752f84d27e4d4c4f32ce3019e262": "7edaab8934563e0b1db5632f74ecb0a7",
+<<<<<<< HEAD
 ".git/objects/ab/e535a63af5602af517151a774b6c6b2de5957a": "2cc00479ae6f41704e15891b50ade606",
+=======
+>>>>>>> 9a77da390053b0d84073e82e5a49e029e9700c97
 ".git/objects/ad/ccfc4c88b0b879e39ac7dc3dd480289021d26b": "3cbf3610bbf28b4f0e0c9407ebc3bf3e",
 ".git/objects/af/072ae17c7d7d9911c25918a43edc630883c054": "d8fe2df6d45e5a6c2df5f9f718572b04",
 ".git/objects/b1/b6c192cf2b8d605a7c5b5831eb2151d3b30dc9": "5302bbb0325e805440b7282f51c857eb",
@@ -178,8 +193,13 @@ const RESOURCES = {
 ".git/objects/fe/9cc87580713c0f0238a4c887927ca8ee0df429": "dabdbad06cbcbc26cb39bdaf2e261a8a",
 ".git/ORIG_HEAD": "aefec8babdd4af41d1ee3f95dcb21470",
 ".git/packed-refs": "a891e6bb26eb0d480aef486a7e8ea166",
+<<<<<<< HEAD
 ".git/refs/heads/main": "03bbe8c8c09d0c879a1268b83b08a8cb",
 ".git/refs/remotes/origin/main": "03bbe8c8c09d0c879a1268b83b08a8cb",
+=======
+".git/refs/heads/main": "cfa33a303e291289b08f84b26ffb93a7",
+".git/refs/remotes/origin/main": "cfa33a303e291289b08f84b26ffb93a7",
+>>>>>>> 9a77da390053b0d84073e82e5a49e029e9700c97
 "assets/AssetManifest.json": "53906433e3f59f362984f489ad26c9e1",
 "assets/assets/images/90698-online-investment.json": "f46ca99820d29500834f3c0f63c88696",
 "assets/assets/images/expense-card.png": "9eea22aaeacc189622e310befa66dd2f",
@@ -264,11 +284,19 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "09fa62b309f029b5f1ba60280a617a7f",
 "icons/ms-icon-310x310.png": "d3f971cf06c1089a18eff4e0dd2ef517",
 "icons/ms-icon-70x70.png": "80469df84f24e64393b5e46ffac5c1c6",
+<<<<<<< HEAD
 "index.html": "a7b26313aa8f1ce9eb53bcc22fa306f5",
 "/": "a7b26313aa8f1ce9eb53bcc22fa306f5",
 "main.dart.js": "4bb26d42b020d6331b3a3c8b7c9972cd",
 "manifest.json": "ba720190afa62e4e7196457ac53e8c9d",
 "version.json": "eaa45b99cb320695d4958bed663004c0"
+=======
+"index.html": "5c51d3916eaf98593aad5d0e77b8bec6",
+"/": "5c51d3916eaf98593aad5d0e77b8bec6",
+"main.dart.js": "4bb26d42b020d6331b3a3c8b7c9972cd",
+"manifest.json": "ba720190afa62e4e7196457ac53e8c9d",
+"version.json": "be26d1925c6d4658ef223b3cfbe23624"
+>>>>>>> 9a77da390053b0d84073e82e5a49e029e9700c97
 };
 
 // The application shell files that are downloaded before a service worker can
